@@ -15,12 +15,12 @@ Markdown 문서를 읽고 편집하는 tymon의 데스크톱 앱 배포 페이�
 | macOS · iOS | App Store 심사 대기 | — |
 | Android | 제한된 내부 테스트 | — |
 
-[릴리스 안내](https://github.com/Gwang-eon/tymon-app/releases/tag/v0.1.83) · [파일 체크섬](https://github.com/Gwang-eon/tymon-app/releases/download/v0.1.83/SHA256SUMS.txt) · [변경 내역](CHANGELOG.md)
+[변경 내역과 설치 안내](https://tymon.app/ko/releases/0.1.83/) · [전체 릴리즈](https://tymon.app/ko/releases/) · [파일 체크섬](https://github.com/Gwang-eon/tymon-app/releases/download/v0.1.83/SHA256SUMS.txt) · [변경 내역](CHANGELOG.md)
 
 Windows 설치 파일은 현재 코드 서명이 없어 Windows 보안 경고가 표시될 수 있습니다.
 macOS·iOS·Android 설치 파일은 이 릴리스에서 제공하지 않습니다.
 장시간 안정성 검수는 진행 중이며 메모리 누적과 영구 창 제어 무응답은 미해결입니다.
-이전 버전에서 설치하기 전 [데이터 백업·동기화와 설치 안내](releases/0.1.83.md)를 확인해 주세요.
+이전 버전에서 설치하기 전 [데이터 백업·동기화와 설치 안내](https://tymon.app/ko/releases/0.1.83/#install)를 확인해 주세요.
 앱 설치 파일과 웹 서비스는 별도로 업데이트되므로, 웹 반영 여부는 해당 릴리스 안내에서 확인해 주세요.
 
 ## 버전 정책

@@ -1,6 +1,6 @@
 # 변경 내역
 
-## [0.1.83](https://github.com/Gwang-eon/tymon-app/releases/tag/v0.1.83) — 2026-11-02 · 알파
+## [0.1.83](https://tymon.app/ko/releases/0.1.83/) — 2026-11-02 · 알파
 
 - 텍스트·아이콘 없는 직선 도킹 손잡이와 준비 후 표시하는 Hover 전환 개선.
 - 반복 Hover·일시적 창 제어 실패·전환 취소 처리 보완.
